@@ -11,6 +11,5 @@ In dormitory we have functions like saving students in dormitory system. We have
 are Alaaddin and Ali Ulvi. We have delete function to remove that student in dormitories system. And
 we can change student's dormitory if he wants to. Each dormitory has 2 blocks and each blocks have
 rooms. 
----
 We have 1 university and this university has 2 faculties. This will increase in next week, I am planning
-to make it 4 or 5. ı will also add new functions for dormitory class. 
+to make it 4 or 5. ı will also add new functions for dormitory class. Cancel changes
