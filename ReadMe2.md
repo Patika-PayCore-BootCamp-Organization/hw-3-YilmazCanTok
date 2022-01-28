@@ -1,8 +1,9 @@
 ### PayCore Java Spring Bootcamp [2.3] Homework 3#
+---
+
 
 This project is about dormitory system. We will do a lot of process for students in this project. For
 example we will check their informations and we will check their meal informations daily.
----
 In this scheme, we have students which will live in dormitory. Every student has their profession,
 therefore they must have their faculties and departmants. Every student has 3 meal per day. Those
 meals are breakfast, lunch and dinner. Students have their qualities like; name, surname, age, first
